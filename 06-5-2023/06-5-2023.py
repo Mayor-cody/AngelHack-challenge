@@ -1,3 +1,4 @@
+# Define the instructions
 def find_floor(instructions):
     floor = 0
     for instruction in instructions:
